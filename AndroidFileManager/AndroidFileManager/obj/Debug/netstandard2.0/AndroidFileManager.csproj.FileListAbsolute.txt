@@ -1,0 +1,15 @@
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\bin\Debug\netstandard2.0\AndroidFileManager.deps.json
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\bin\Debug\netstandard2.0\AndroidFileManager.dll
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\bin\Debug\netstandard2.0\ref\AndroidFileManager.dll
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\bin\Debug\netstandard2.0\AndroidFileManager.pdb
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\AndroidFileManager.csproj.AssemblyReference.cache
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\AndroidFileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\AndroidFileManager.AssemblyInfoInputs.cache
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\AndroidFileManager.AssemblyInfo.cs
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\AndroidFileManager.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\AndroidFileManager.dll
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\ref\AndroidFileManager.dll
+C:\Users\louis\source\repos\AndroidFileManager\AndroidFileManager\AndroidFileManager\obj\Debug\netstandard2.0\AndroidFileManager.pdb

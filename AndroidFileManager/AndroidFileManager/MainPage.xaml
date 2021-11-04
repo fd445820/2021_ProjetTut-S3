@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AndroidFileManager.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="LightSeaGreen" Padding="10" CornerRadius="0">
+            <Label Text="Mon gestionnaire de fichiers" HorizontalTextAlignment="Start" TextColor="AntiqueWhite" FontSize="24"/>
+        </Frame>
+
+        <StackLayout Margin="5,-5,2,20" Orientation="Vertical">
+
+            <Label Text="/Documents" VerticalTextAlignment="Center" TextColor="#202020" 
+            BackgroundColor="#E0E0E0" HorizontalOptions="Fill" HeightRequest="40"/>
+
+
+            <Grid Margin="3,15,5,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.30*"/>
+                    <ColumnDefinition Width="0.32*"/>
+                    <ColumnDefinition Width="0.32*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="140"/>
+                    <RowDefinition Height="140"/>
+                    <RowDefinition Height="140"/>
+                </Grid.RowDefinitions>
+
+                <StackLayout Grid.Column="0" Grid.Row="0" Orientation="Vertical" Margin="5,1,2,20">
+                    <Image Source="IconeDocx.png" />
+                    <Label Text="Conception.docx"  HorizontalTextAlignment="Center" ></Label>
+                </StackLayout>
+
+                <StackLayout Grid.Column="1" Grid.Row="0" Orientation="Vertical" Margin="5,1,2,20">
+                    <Image Source="IconeXlsx.png" />
+                    <Label Text="Calculs.xlsx"  HorizontalTextAlignment="Center" ></Label>
+                </StackLayout>
+
+                <StackLayout Grid.Column="2" Grid.Row="0" Orientation="Vertical" Margin="5,1,2,20">
+                    <Image Source="IconePdf.png" />
+                    <Label Text="Compte-rendu.pdf"  HorizontalTextAlignment="Center" ></Label>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="1" Orientation="Vertical" Margin="5,1,2,20">
+                    <Image Source="IconeDossier.png" />
+                    <Label Text="Projet tutoré"  HorizontalTextAlignment="Center" ></Label>
+                </StackLayout>
+
+            </Grid>
+
+
+        </StackLayout>
+
+        <Frame BackgroundColor="LightSeaGreen" Padding="1" CornerRadius="20">
+            <StackLayout Orientation="Horizontal" Spacing="70">
+                <StackLayout Orientation="Vertical">
+                    <Button ImageSource="ActionAjouter.png" BackgroundColor="LightSeaGreen"/>
+                    <Label Text="Ajouter" HorizontalOptions="Center" FontSize="12" FontAttributes="Bold" Margin="0,-10,0,0"/>
+                </StackLayout>
+                
+                <StackLayout Orientation="Vertical">
+                    <Button ImageSource="ActionAnnuler.png" BackgroundColor="LightSeaGreen"/>
+                    <Label Text="Retour" HorizontalOptions="Center" FontSize="12" FontAttributes="Bold" Margin="0,-10,0,0"/>
+                </StackLayout>
+                
+                <StackLayout Orientation="Vertical">
+                    <Button ImageSource="ActionSupprimer.png" BackgroundColor="LightSeaGreen"/>
+                    <Label Text="Supprimer" HorizontalOptions="Center" FontSize="12" FontAttributes="Bold" Margin="0,-10,0,0"/>
+                </StackLayout>
+            </StackLayout>
+
+        </Frame>
+
+
+
+    </StackLayout>
+
+</ContentPage>
