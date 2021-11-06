@@ -9,8 +9,8 @@ namespace AndroidFileManager
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            MainPage = new MainPage();                         //Ouvre la page de menu principal
+            //MainPage = new PageDetailDossier();                  //Ouvre la page de detail d'un dossier
         }
 
         protected override void OnStart()

@@ -1,23 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace AndroidFileManager
 {
-    public partial class MainPage : ContentPage
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class PageDetailDossier : ContentPage
     {
-        public MainPage()
+        public PageDetailDossier()
         {
             InitializeComponent();
         }
 
-        private void Documents_Clicked(object sender, EventArgs e)
+        private void Retour_Clicked(object sender, EventArgs e)
         {
-            PageDetailDossier detail_doc = new PageDetailDossier();
         }
     }
 }

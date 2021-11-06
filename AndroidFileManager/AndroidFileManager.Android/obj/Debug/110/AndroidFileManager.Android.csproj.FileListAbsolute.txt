@@ -1205,3 +1205,4 @@ C:\Users\louis\Desktop\2021_ProjetTut-S3\AndroidFileManager\AndroidFileManager.A
 C:\Users\louis\Desktop\2021_ProjetTut-S3\AndroidFileManager\AndroidFileManager.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\louis\Desktop\2021_ProjetTut-S3\AndroidFileManager\AndroidFileManager.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\louis\Desktop\2021_ProjetTut-S3\AndroidFileManager\AndroidFileManager.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\louis\Desktop\2021_ProjetTut-S3\AndroidFileManager\AndroidFileManager.Android\obj\Debug\110\AndroidFileManager.Android.csproj.CopyComplete
