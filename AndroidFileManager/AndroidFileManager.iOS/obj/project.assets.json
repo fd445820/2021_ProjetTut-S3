@@ -997,11 +997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.iOS\\AndroidFileManager.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager.iOS\\AndroidFileManager.iOS.csproj",
       "projectName": "AndroidFileManager.iOS",
-      "projectPath": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.iOS\\AndroidFileManager.iOS.csproj",
+      "projectPath": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager.iOS\\AndroidFileManager.iOS.csproj",
       "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.iOS\\obj\\",
+      "outputPath": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj": {
-              "projectPath": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj"
+            "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj": {
+              "projectPath": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj"
             }
           }
         }

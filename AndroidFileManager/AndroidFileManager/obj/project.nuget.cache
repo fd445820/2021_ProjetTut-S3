@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jM+SafsmCkZcE0D2wy8ZB1CBfK9EJL7akYsQ4XvZcHBLPSnZrzRQAO+jzgVH4ytvO5woXIlk8jtgyEp0oe5h5w==",
+  "dgSpecHash": "c18cpeIUadgct5fm8nUMloU2ppKQbAZ6AiVMXxdSOMAe3+qjxuNd1ATNkAckHoOvZ/uO4U+kT9XEkyFpdjGnNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj",
+  "projectFilePath": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\louis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\louis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

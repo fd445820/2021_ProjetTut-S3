@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.Android\\AndroidFileManager.Android.csproj",
+      "projectUniqueName": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager.Android\\AndroidFileManager.Android.csproj",
       "projectName": "AndroidFileManager.Android",
-      "projectPath": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.Android\\AndroidFileManager.Android.csproj",
+      "projectPath": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager.Android\\AndroidFileManager.Android.csproj",
       "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.Android\\obj\\",
+      "outputPath": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj": {
-              "projectPath": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj"
+            "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj": {
+              "projectPath": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.csproj"
             }
           }
         }

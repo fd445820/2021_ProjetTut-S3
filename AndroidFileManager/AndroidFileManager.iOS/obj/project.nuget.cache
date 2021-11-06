@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MucAoXYrVOX2Bfr9Sjgkz9Y/rn+FZk7elM0s7CnIEFwQXpUxXyMZC0jwKSXZLoKxwuRbSi34lArr0+uOTP0BFw==",
+  "dgSpecHash": "gcYzt5X3u953FR9a2gd0+KtTfupfOD9/UsaRo2ZxmuufqeU2tiH6TaxQHYleNYSZ7FCgZoLF6TCpRJGiU8US0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\louis\\source\\repos\\AndroidFileManager\\AndroidFileManager\\AndroidFileManager.iOS\\AndroidFileManager.iOS.csproj",
+  "projectFilePath": "C:\\Users\\louis\\Desktop\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager.iOS\\AndroidFileManager.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\louis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
