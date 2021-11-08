@@ -43,17 +43,17 @@
                 </Grid.ColumnDefinitions>
 
                 <StackLayout Grid.Column="0" Grid.Row="0" Orientation="Vertical" >
-                    <Button ImageSource="ActionAjouter.png" BackgroundColor="LightSeaGreen"/>
+                    <Button ImageSource="ajouter_blanc.png" BackgroundColor="LightSeaGreen"/>
                     <Label Text="Ajouter" HorizontalOptions="Center" FontSize="12" FontAttributes="Bold"/>
                 </StackLayout>
 
                 <StackLayout Grid.Column="1" Grid.Row="0" Orientation="Vertical">
-                    <Button ImageSource="ActionAnnuler.png" BackgroundColor="LightSeaGreen"/>
+                    <Button ImageSource="annuler_blanc.png" BackgroundColor="LightSeaGreen"/>
                     <Label Text="Retour" HorizontalOptions="Center" FontSize="12" FontAttributes="Bold"/>
                 </StackLayout>
 
                 <StackLayout Grid.Column="2" Grid.Row="0" Orientation="Vertical">
-                    <Button ImageSource="ActionSupprimer.png" BackgroundColor="LightSeaGreen"/>
+                    <Button ImageSource="supprimer_blanc.png" BackgroundColor="LightSeaGreen"/>
                     <Label Text="Supprimer" HorizontalOptions="Center" FontSize="12" FontAttributes="Bold"/>
                 </StackLayout>
 
